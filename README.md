@@ -7,9 +7,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&letterSpacing=3px&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Visna+Sithmi+👋;++Welcome+to+my+Github+Profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&letterSpacing=3px&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=435&lines=Hi+I'm+Visna+Sithmi+👋;++Welcome+to+my+Github+Profile!" alt="Typing SVG">
   </a>
 </div>
+
 
 ## 🚀 About Me
 - 😊 I’m Visna Sithmi.
@@ -23,13 +24,14 @@
 - **HopeFlow** - A life-saving blood donation website.
 - personal portfolio website.
 - More projects coming soon!
-<picture>
-  <img src="most used lang.jpg">
-</picture>
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Visna-Sithmi&layout=compact&langs_count=8&theme=dark)
+
 ## 📫 How to reach me
 
 - Email: ihvisnasithmi@gmail.com
-- LinkedIn:[Visna Sithmi](https://www.linkedin.com/in/visna-sithmi/)
+- LinkedIn: [Visna Sithmi](https://www.linkedin.com/in/visna-sithmi/)
 
 ## 🤝 Connect & Collaborate
 
@@ -38,6 +40,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/hcBunoQuq934PTRo/?mibextid=qi2Omg)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihvisnasithmi@gmail.com)
 
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Visna-Sithmi&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 *Thanks for visiting my profile! 💖*
 
