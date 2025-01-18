@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Linkedin banner.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="Linkedin banner.jpg">
+  <img alt="HopeFlow Banner" src="Linkedin banner.jpg">
+</picture>
+
 ## Hi there 👋
 
 <!--
