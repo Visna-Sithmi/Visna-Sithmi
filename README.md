@@ -7,9 +7,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=228B22&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Visna+Sithmi;Data+Science+Undergraduate;Fullstack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- Light mode (black text) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Visna+Sithmi;Data+Science+Undergraduate;Fullstack+Developer;Always+Learning+New+Things#gh-light-mode-only)](https://git.io/typing-svg)
+
+<!-- Dark mode (white text) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Visna+Sithmi;Data+Science+Undergraduate;Fullstack+Developer;Always+Learning+New+Things#gh-dark-mode-only)](https://git.io/typing-svg)
 
 </div>
+
 
 
 
