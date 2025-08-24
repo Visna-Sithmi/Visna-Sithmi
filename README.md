@@ -9,13 +9,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hey+there!+I'm+Visna+Sithmi+👋;Data+Science+Undergraduate+at+SLIIT+🎓;Always+Coding+%26+Learning+🚀)](https://git.io/typing-svg)
 
+</div>
 
 
 
 
 ## 🚀 About Me
 - 😊 I’m Visna Sithmi.
-- 👦🏻 I'm 21 years old.
+- 👦🏻 I'm 22 years old.
 - 👀 I’m interested in HTML, CSS, JS, PHP, MySQL, C, C++, Java, React, MongoDB, Express, NodeJS, Python, Kotlin, AJAX, Bootstraps.
 - 🎓 I’m currently pursuing a Software Engineering degree at Sri Lanka Institute of Information Technology.
 - 🎨 Love designing and exploring creative ideas.
